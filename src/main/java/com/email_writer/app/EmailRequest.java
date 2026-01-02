@@ -1,4 +1,4 @@
-package app;
+package com.email_writer.app;
 
 
 import lombok.Data;
