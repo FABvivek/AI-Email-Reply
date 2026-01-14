@@ -1,0 +1,63 @@
+####################################
+# OS / Editor
+####################################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+####################################
+# Logs
+####################################
+logs/
+*.log
+
+####################################
+# Spring Boot / Java
+####################################
+# Compiled class files
+*.class
+
+# Maven
+email-writer-backend/target/
+email-writer-backend/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+email-writer-backend/build/
+email-writer-backend/.gradle/
+
+# Spring Boot config (keep application.yml if needed)
+email-writer-backend/*.env
+email-writer-backend/application-local.yml
+
+####################################
+# React / Node.js
+####################################
+email-writer-frontend/node_modules/
+email-writer-frontend/build/
+email-writer-frontend/dist/
+email-writer-frontend/.env
+email-writer-frontend/.env.local
+email-writer-frontend/.env.development.local
+email-writer-frontend/.env.test.local
+email-writer-frontend/.env.production.local
+
+# npm / yarn / pnpm
+email-writer-frontend/npm-debug.log*
+email-writer-frontend/yarn-debug.log*
+email-writer-frontend/yarn-error.log*
+email-writer-frontend/pnpm-debug.log*
+
+####################################
+# Coverage
+####################################
+coverage/
+
+####################################
+# Misc
+####################################
+*.pid
+*.seed
+*.tgz
