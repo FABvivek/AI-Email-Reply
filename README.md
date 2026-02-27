@@ -132,12 +132,15 @@ OPENAI_API_KEY=your_api_key_here
 
 ---
 
-## Deployment (Optional)
+## Deployment 
 
-* Backend: Render / Railway / Heroku
-* Frontend: Vercel / Netlify
-* Extension: Chrome Web Store
+* Backend: Render 
+* Frontend: Vercel
+* Extension: Chrome Web Store(not done yet)
 
 ---
+
+Demo : https://email-reply-frontend-kappa.vercel.app/
+
 
 
